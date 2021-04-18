@@ -9,7 +9,10 @@ import java.util.Random;
 
 /**
  *
- * @author Mani Ubhi
+ * @author Mandeep singh
+ * @author Nitin minhas
+ * @author Shreya patel
+ * @author Sukhpreet kaur
  */
 public class Cpu extends Player {
     public Cpu(String name) 

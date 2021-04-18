@@ -7,7 +7,10 @@ package teamgofish;
 
 /**
  *
- * @author Mani Ubhi
+ *@author Mandeep singh
+ * @author Nitin minhas
+ * @author Shreya patel
+ * @author Sukhpreet kaur
  */
 import java.util.ArrayList;
 import java.util.Random;
